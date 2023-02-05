@@ -1,0 +1,2 @@
+# SumterItemDec
+December Newsletter
