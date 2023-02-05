@@ -208,12 +208,29 @@
     </mj-section>
     <mj-section padding="40px 20px" background-color="#FFFFFF">
       <mj-column width="100%">
-        <mj-image src="http://nimus.de/share/tpl-realestate/icon-1.png" alt="" width="130px" align="center" border="none"></mj-image>
+        <mj-image src="https://i.imgur.com/6qN1UzY.jpg" alt="" width="450px" align="center" border="none"></mj-image>
       </mj-column>
     </mj-section>
+
+
     <mj-section padding="10px 0 20px 0">
       <mj-column>
-        <mj-text align="center" color="#9B9B9B" font-size="11px"><a href="#" style="color: #9B9B9B;">Unsubscribe</a> from this newsletter<br />Icon made by Freepik from <a href="http://www.flaticon.com" target="_blank" style="color: #9B9B9B; text-decoration: none;">www.flaticon.com</a><br /> <a href="http://svenhaustein.de" style="color: #9B9B9B; text-decoration:none;">Made by svenhaustein.de</a></mj-text>
+        <mj-text align="center" color="#9B9B9B" font-size="8px" >Copyright © 2022 The Sumter Item, All rights reserved.</br>
+            You are receiving this email because you opted in via our website.</br></mj-text>
+        </mj-text>
+        <mj-text align="center"  padding="25px">
+            Our mailing address is:</br>
+                The Sumter Item</br>
+                36 West Liberty St.</br>
+                Sumter, Sc 29150</span>
+        </mj-text>
+
+        <mj-text> <a href= "https://theitem.us16.list-manage.com/vcard?u=39bfb55671832b2497b3f882c&id=eef579aa99"> Add us to your address book </mj-text>
+
+
+        <mj-text color="#9B9B9B" font-size="8px" padding-top="20px"> Want to change how you receive these emails?</br>
+        You can update your preferences or unsubscribe from this list.
+        </mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
