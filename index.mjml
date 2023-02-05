@@ -1,0 +1,220 @@
+<mjml>
+  <mj-head>
+    <mj-title>The Sumter Item</mj-title>
+    <mj-font name="Alice" href="https://fonts.googleapis.com/css?family=Alice"></mj-font>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:400,700"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Roboto, Helvetica, Arial, sans-serif" padding="0px"></mj-all>
+      <mj-text align="center" font-weight="400" font-size="14px" color="#000000" line-height="21px"></mj-text>
+      <mj-image align="left" padding="0px"> </mj-image>
+      
+    </mj-attributes>
+
+  </mj-head>
+
+  <mj-body background-color="#25408F">
+    <mj-section padding="20px 0 0 0" >
+      <mj-column>
+      
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding-top="0px" background-color="#FFFFFF">
+      <mj-column width="570px" >
+        <mj-image src="https://i.imgur.com/pWSDjBp.png" title="source: imgur.com" alt="logo" />
+        <mj-text align="center" padding="0 20px"><strong><span style="font-size: 40px;">⚊</span></strong><br /><br /></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#FFFFFF" border="3px solid #808080">
+      <mj-column width="570px">
+        <mj-text padding-top="30px" align="center" padding="0 20px"><strong>Not a Subscriber?</strong></mj-text> </br>
+        <mj-button border-radius= "30px" background-color="#9c3c2a">Unlock Full Access </mj-button>
+      </mj-column>
+      <mj-column width="300px">
+        <mj-text padding="0 20px" font-size="10px">Subscriptions start as low as $2.54 per week</mj-text>        
+        <mj-text font-size="8px"  font-family="helvetica">
+            <a href="https://www.theitem.com/subscribe/" class="link-nostyle">see other options</a>
+          </mj-text>      </mj-column>
+    </mj-section>
+
+
+    <mj-section background-color="#ffffff" >
+
+      <mj-column width= "570">
+        <mj-text  align="left" padding= "10px" color="#9c3c2a" font-weight="bold"> News</mj-text>
+        <mj-text align="left" padding="10px;"  font-weight="bold" font-size=" 24px" >Sweet confidence: 1st-year Sumter Career and Technology Center 
+        health science student rushes into action to potentially save teacher’s life </mj-text>      
+      </mj-column>  
+      <mj-column vertical-align="middle" width="100%">
+        <mj-image src="https://i.imgur.com/5pgvOYc.jpg"  title="source: imgur.com" />"
+        <mj-text align="left" padding="0px 10px" color="#000000" font-size="12px"  
+         font-family="Alice, Helvetica, Arial, sans-serif"><span><a href="https://www.theitem.com/stories/sweet-confidence,391240?utm_source=The+Sumter+Item&utm_campaign=4957912879-EMAIL_CAMPAIGN_2022_11_19_05_03&utm_medium=email&utm_term=0_-4957912879-%5BLIST_EMAIL_ID%5D"> 
+         Read full story</a></span> by Bruce Mills</mj-text>
+      </mj-column>
+
+      <mj-column vertical-align="middle" width="40%" background-color="#FFFFFF">
+        
+      </mj-column>
+
+    </mj-section>
+
+
+    <mj-section background-color="#ffffff" >
+
+      <mj-column width="570px">
+        <mj-text align="left" padding= "10px" color="#9c3c2a" font-weight="bold"> Elections</mj-text>
+        <mj-text align="left" padding="10px;"  font-weight="bold" font-size=" 24px" >5 runoff elections Tuesday; eligible voters who live in districts
+         to determine 4 seats on Sumter school board and city council Ward 1</mj-text>      
+      </mj-column>  
+      
+      <mj-column vertical-align="middle" width="100%">
+        <mj-image src="https://i.imgur.com/6kdGvYV.jpg" title="source: imgur.com" /></a>"  title="source: imgur.com" />"
+        <mj-text align="left" padding="0px 10px" color="#000000" font-size="12px"  
+         font-family="Alice, Helvetica, Arial, sans-serif"><span><a href="https://www.theitem.com/stories/5-runoff-elections-tuesday,391243?utm_source=The+Sumter+Item&utm_campaign=4957912879-EMAIL_CAMPAIGN_2022_11_19_05_03&utm_medium=email&utm_term=0_-4957912879-%5BLIST_EMAIL_ID%5D"> 
+         Read full story</a></span> by Bruce Mills</mj-text>
+      </mj-column>
+
+      <mj-column vertical-align="middle" width="40%" background-color="#FFFFFF">
+        
+      </mj-column>
+
+    </mj-section>
+
+
+
+    
+    <mj-section background-color="#ffffff" >
+
+      <mj-column width="570px">
+        <mj-text align="left" padding= "10px" color="#9c3c2a" font-weight="bold"> Subscriber Premium</mj-text>
+        <mj-text align="left" padding="10px;"  font-weight="bold" font-size=" 24px" >Read this week's edition of Parade magazine, 
+        now included for subscribers in each Weekend Edition E-Paper</mj-text>      
+      </mj-column>  
+      
+      <mj-column vertical-align="middle" width="100%">
+
+             <mj-image src="https://i.imgur.com/OYJlQ6v.jpg" title="source: imgur.com"/>"
+
+        <mj-text align="left" padding="0px 10px" color="#000000" font-size="12px"  
+         font-family="Alice, Helvetica, Arial, sans-serif"><span><a href="https://www.theitem.com/stories/5-runoff-elections-tuesday,391243?utm_source=The+Sumter+Item&utm_campaign=4957912879-EMAIL_CAMPAIGN_2022_11_19_05_03&utm_medium=email&utm_term=0_-4957912879-%5BLIST_EMAIL_ID%5D"> 
+         Read full story</a></span> by Bruce Mills</mj-text>
+      </mj-column>
+
+      <mj-column vertical-align="middle" width="40%" background-color="#FFFFFF">
+        
+      </mj-column>
+
+    </mj-section>
+
+
+
+    <mj-section background-color="#ffffff" >
+
+      <mj-column width="570px">
+        <mj-text align="left" padding= "10px" color="#9c3c2a" font-weight="bold"> Biztalk</mj-text>
+        <mj-text align="left" padding="10px;"  font-weight="bold" font-size=" 24px" >Simply Southern Bistro owners, 
+        college friend serve barbecue and more on Smokin J's Southern Eatz food truck</mj-text>      
+      </mj-column>  
+      
+      <mj-column vertical-align="middle" width="100%">
+
+             <mj-image src="https://i.imgur.com/chyGjIs.jpg" title="source: imgur.com" />" title="source: imgur.com"/>"
+
+        <mj-text align="left" padding="0px 10px" color="#000000" font-size="12px"
+                 font-family="Alice, Helvetica, Arial, sans-serif"><span><a href="https://www.theitem.com/stories/biztalk-simply-southern-bistro-owners-college-friend-serve-barbecue-and-more-on-smokin-js,391230?utm_source=The+Sumter+Item&utm_campaign=4957912879-EMAIL_CAMPAIGN_2022_11_19_05_03&utm_medium=email&utm_term=0_-4957912879-%5BLIST_EMAIL_ID%5D"> 
+  
+         Read full story</a></span> from Ashley Miller</mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    
+    <mj-section background-color="#ffffff" >
+
+      <mj-column width="570px">
+        <mj-text align="left" padding= "10px" color="#9c3c2a" font-weight="bold"> News</mj-text>
+        <mj-text align="left" padding="10px;"  font-weight="bold" font-size=" 24px" >Simply Southern Bistro owners, 
+        college friend serve barbecue and more on Smokin J's Southern Eatz food truck</mj-text>      
+      </mj-column>  
+      
+      <mj-column vertical-align="middle" width="100%">
+
+             <mj-image src="https://i.imgur.com/RqBbUJJ.jpg" title="source: imgur.com"></mj-image>
+
+        <mj-text align="left" padding="0px 10px" color="#000000" font-size="12px"
+                 font-family="Alice, Helvetica, Arial, sans-serif"><span><a href="https://www.theitem.com/stories/biztalk-simply-southern-bistro-owners-college-friend-serve-barbecue-and-more-on-smokin-js,391230?utm_source=The+Sumter+Item&utm_campaign=4957912879-EMAIL_CAMPAIGN_2022_11_19_05_03&utm_medium=email&utm_term=0_-4957912879-%5BLIST_EMAIL_ID%5D"> 
+  
+         Read full story</a></span> from Ashley Miller</mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0 20px" background-color="#FFFFFF">
+      <mj-column>
+        <mj-text align="center" font-size="26px" line-height="30px" font-family="Alice, Helvetica, Arial, sans-serif">More Local News</mj-text>
+        <mj-divider width="20px" padding="20px 0" border-width="2px" border-color="#000000"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="20px 30px" background-color="#FFFFFF">
+      <mj-column width="33%">
+        <mj-text align="center" padding="0 15px 15px"><strong>Clarendon jail escapee caught in the Gaston area</strong> </mj-text>
+        <mj-image align="center" padding = " 0 15px 15px"src="https://i.imgur.com/TpudjCp.jpg"   alt=" "> </mj-image>
+      </mj-column>
+
+      <mj-column width="34%">
+        <mj-text align="center" padding="0 15px 15px"><strong>Miscues sink Sumter High in quarterfinal loss to Summerville</strong> </mj-text>
+        <mj-image align="center" padding = " 0 15px 15px"src="https://i.imgur.com/0twxjTj.jpg"   alt=" "> </mj-image>
+      </mj-column>
+
+      <mj-column width="33%">
+<mj-text align="center" padding="0 15px 15px"><strong>Laurence Manning falls to Hammond in SCISA 4A title game</strong> </mj-text>
+        <mj-image align="center" padding = " 0 15px 15px" src="https://i.imgur.com/2EhiXuB.jpg"   alt=" "> </mj-image>      </mj-column>
+    </mj-section>
+
+
+
+
+
+ <mj-section background-color="#ffffff" >
+
+      <mj-column width="570px">
+        <mj-text align="left" padding= "10px" color="#9c3c2a" font-weight="bold"> Links</mj-text>
+        <mj-text align="left" padding="10px;"  font-weight="bold" font-size=" 12px" >
+         8 references that may help you find what you're looking for from The Item</mj-text>      
+      </mj-column>  
+      
+      <mj-column vertical-align="middle" width="100%">
+
+        <mj-text align="left" padding="0px 10px" color="#000000" font-size="12px"
+                 font-family="Alice, Helvetica, Arial, sans-serif"><span>
+                 <ol>
+                    <li>For print subscriptions: Check your route</li>
+                    <li>See The Item's archives dating back to the 1800's and find family and friends.</li> 
+                    <li>Submit a news tip to our staff. </li>
+                    <li>Write a Letter to the Editor. </li>
+                    <li>Ask our staff about advertising options.</li>
+                    <li>Inquire about video coverage or commercial video services. </li>
+                    <li> See a map of where you can find The Sumter Item.</li>
+                    <li>Sign up a friend to receive free email newsletters from The Item.</li>
+                 </ol>
+        </mj-text>
+      </mj-column>
+
+
+
+    </mj-section>
+    <mj-section padding="40px 20px" background-color="#FFFFFF">
+      <mj-column width="100%">
+        <mj-image src="http://nimus.de/share/tpl-realestate/icon-1.png" alt="" width="130px" align="center" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="10px 0 20px 0">
+      <mj-column>
+        <mj-text align="center" color="#9B9B9B" font-size="11px"><a href="#" style="color: #9B9B9B;">Unsubscribe</a> from this newsletter<br />Icon made by Freepik from <a href="http://www.flaticon.com" target="_blank" style="color: #9B9B9B; text-decoration: none;">www.flaticon.com</a><br /> <a href="http://svenhaustein.de" style="color: #9B9B9B; text-decoration:none;">Made by svenhaustein.de</a></mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
